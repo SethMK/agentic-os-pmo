@@ -2,6 +2,10 @@
 
 Obsidian-native PM workspace + methodology that drives the build of [AgenticOS](https://github.com/SethMK/agenticos). Replaces story-point fiction with **measured calibration** anchored to actual sub-agent token + time runs.
 
+<img width="1200" height="1078" alt="Screenshot 2026-05-22 at 15 56 21" src="https://github.com/user-attachments/assets/081806b0-8201-4d12-8eeb-2d1c44896af3" />
+
+<img width="1168" height="1344" alt="Screenshot 2026-05-22 at 15 56 38" src="https://github.com/user-attachments/assets/15025bd8-652a-478e-a9b1-f855a113fb4c" />
+
 ## What it is
 
 A kanban + story decomposition workspace built natively in Obsidian, that an orchestrator (Claude Code session) reads + writes to drive single-story-at-a-time agentic builds.
