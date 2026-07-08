@@ -4,9 +4,9 @@ The Obsidian-native PM workspace + methodology that drove an AI-native product f
 
 It replaces story-point fiction with **measured calibration** anchored to real sub-agent token + time runs, runs the work in **one-hour sprints**, and treats every learning as a **falsifiable hypothesis** with a measured baseline.
 
-![How this dashboard was built — the build receipt: 171 stories, 148 shipped, 25 epics, three milestones shipped, across 71 one-hour sprints](assets/how-it-was-built-hero.png)
+![How this dashboard was built — the build receipt: 277 stories, 259 shipped, 37 epics, four milestones shipped, across 149 one-hour sprints](assets/how-it-was-built-hero.png)
 
-The `/how-it-was-built` view this PMO renders — **171 stories / 148 shipped / 25 epics**, three milestones shipped (M1–M3), across **71 one-hour sprints**.
+The `/how-it-was-built` view this PMO renders — **277 stories / 259 shipped / 37 epics**, four milestones shipped (M1–M3, M6), across **149 one-hour sprints**.
 
 ## The problem
 
@@ -82,7 +82,7 @@ v3 prices a story by the **shape of its verification protocol**, not its code su
 
 **Floor: ~130k tokens** for any story whose protocol includes a cold rebuild + Playwright pass — regardless of how few lines changed. Each sub-agent spawn also pays a ~100–125k system-prompt floor, so "just parallelise it" is rarely cheaper at this task size. Calibration replaces estimation theatre with measured reality: every number above is re-derived from logged token + time runs.
 
-![Sprint-tokens — per-sprint composition for all 71 sprints, with honest ±50% noise badges and a cap-model explainer](assets/sprint-tokens.png)
+![Sprint-tokens — per-sprint composition for all 149 sprints, with honest ±50% noise badges and a cap-model explainer](assets/sprint-tokens.png)
 
 ## Sprint cycle
 
@@ -110,4 +110,4 @@ Code lives in a private repo. This public README documents the methodology + age
 
 ---
 
-Built by [Marcin Kokott](https://linkedin.com/in/marcinkokott) — Head of Product & Delivery, Vazco.
+Built by [Marcin Kokott](https://linkedin.com/in/marcinkokott).
