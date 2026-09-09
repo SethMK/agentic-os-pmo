@@ -5,8 +5,8 @@ This is the planning system that ran an AI-built product like a real one. Every 
 pulling one kanban card at a time, directed by a product manager who writes no code by hand. The
 cards, the estimates, the budgets and the accept-or-reject calls all live in this repo.
 
-**150+ closed one-hour sprints · 270+ stories · 38 epics · 7 milestones.**
-Counts as of August 2026; the live receipt at
+**150+ closed one-hour sprints · 275+ stories · 38 epics · 7 milestones.**
+Counts as of September 2026; the live receipt at
 [/how-it-was-built](https://agenticos.sethsendom.com/how-it-was-built) is the version that stays
 current.
 
